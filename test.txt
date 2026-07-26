@@ -2,3 +2,4 @@ cherry from lilidev
 grape from fywest
 new list for vegetable
 new list for fruit
+new list for liquor
